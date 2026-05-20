@@ -1,0 +1,10 @@
+torch>=2.1
+torchvision
+opencv-python
+numpy
+PyYAML
+tqdm
+timm
+einops
+roma
+wandb
