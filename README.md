@@ -1,5 +1,7 @@
 # Subject Motion 6DoF
 
+<img width="640" height="320" alt="Subject Motion 6DoF" src="https://github.com/user-attachments/assets/39f34a56-0c8f-475b-a37d-8dd2b337284c" />
+
 Subject Motion 6DoF trains a causal video model that turns a streaming video
 into one rigid-body 6DoF motion trajectory for the intended subject.
 
